@@ -9,6 +9,9 @@ Prequisites:-
 Make sure you have pip and virtualenv installed in your system. Considering you are on a Unix based system you can clone the 
 repository from https://github.com/tinker20/tinnker-flask install all the dependencies via pip on the virtualenv.
 
+    vitrualenv <environment_name>
+    
+    pip install -r requirements.txt
 
 Quickstart
 ----------
