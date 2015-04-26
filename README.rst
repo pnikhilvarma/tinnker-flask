@@ -4,6 +4,11 @@ Tinnker
 
 Implementation of www.tinnker.in using Flask and python
 
+Prequisites:-
+
+Make sure you have pip and virtualenv installed in your system. Considering you are on a Unix based system you can clone the 
+repository from https://github.com/tinker20/tinnker-flask install all the dependencies via pip on the virtualenv.
+
 
 Quickstart
 ----------
@@ -20,7 +25,7 @@ Then run the following commands to bootstrap your environment.
 
 ::
 
-    git clone https://github.com/tinker20/martbell
+    git clone https://github.com/tinker20/tinnker-flask
     cd martbell
     pip install -r requirements/dev.txt
     python manage.py server
