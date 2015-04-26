@@ -8,6 +8,12 @@ html {
   overflow-y: scroll;
 }
 
+.business-header {
+  background-image: url('img/startup.jpg');
+  width: 1000px;
+  height: 400px;
+}
+
 body {
   padding-top: 60px;
 }
